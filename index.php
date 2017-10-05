@@ -93,7 +93,7 @@ function DisplayItem($prev, $item)
     }
     echo "</div>\n";
 
-    // Item description
+    // Item descriptions
     echo "<div class=\"itemDesc\">" . $item['itemDesc'] . "</div>\n";
     echo "</article>\n";
 }

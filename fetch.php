@@ -8,7 +8,7 @@ require("include/rss_util.php");
 $query = "SELECT * FROM feeds";
 $rows = Query($db, $query);
 
-// Load the items for each feed
+// Load the items for each feedd
 foreach ($rows as $feed) {
 	// Load items for all feeds
 	echo "<div>Feed id " . $feed['id'] . " link: ";

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Returns the string with various external links, images, iframes, and
+ * Returns the string with various external links, images, iframes, ands
  * the last "Read more..." paragraph removed
  */
 function RemoveLinks($desc)

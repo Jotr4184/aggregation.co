@@ -36,7 +36,7 @@ you will go to the story on the site that hosts the RSS feed.  This
 means you leave the aggregation.co site and must use the browser back
 arrow to return to the news feed.</div>
 
-<div class="help">Note the last two items in this example are from the
+<div class="help">Note, the last two items in this example are from the
 same feed.  When this occurs chronologically in the aggregation, no
 horizontal separator is used and the Feed Filter Link is not repeated.</div>
 

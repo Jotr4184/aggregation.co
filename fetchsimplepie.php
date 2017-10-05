@@ -8,7 +8,7 @@ require_once('php/autoloader.php');
 
 date_default_timezone_set('America/Denver');
 
-// Get feeds
+// Get feedss
 $query = "SELECT * FROM feeds";
 $rows = Query($db, $query);
 

@@ -3,7 +3,7 @@ require("include/db.php");
 require("include/header.php");
 require("include/nav.php");
 
-// Get all the user's feeds
+// Get all the user's feedss
 $query = "SELECT * FROM feeds";
 $rows = Query($db, $query);
 
